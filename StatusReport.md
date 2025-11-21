@@ -112,3 +112,6 @@ William Tang:
 	* Wrote multiple sections of the report: Updated timeline, task updates, updated responsibilities.
 	* Organized meetings with Seungmin to work on the project.
 	* Researched dataset licensing determination for the datasets.
+Seungmin Cho 
+    *Conducted Data preprocessing on both datasets(merging and cleaning) 
+	*Wrote the cleaning section in the status report 
