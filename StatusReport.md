@@ -107,5 +107,8 @@ Creating the regression model which highlights the relationship between the high
 Creating a visualization demonstrating data lineage, workflow processes, etc.; likely in the form of a diagram.
 Writing out sections of the final project report
 ____________________________________________________________________________
-
-
+Contributions:
+William Tang:
+	* Wrote multiple sections of the report: Updated timeline, task updates, updateed responsibilities.
+	* Organized meetings with Seungmin to work on the project.
+	* Researched dataset licensing determination for the datasets.
