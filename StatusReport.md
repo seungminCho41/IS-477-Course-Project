@@ -109,6 +109,6 @@ Writing out sections of the final project report
 ____________________________________________________________________________
 Contributions:
 William Tang:
-	* Wrote multiple sections of the report: Updated timeline, task updates, updateed responsibilities.
+	* Wrote multiple sections of the report: Updated timeline, task updates, updated responsibilities.
 	* Organized meetings with Seungmin to work on the project.
 	* Researched dataset licensing determination for the datasets.
