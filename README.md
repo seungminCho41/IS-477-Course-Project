@@ -83,11 +83,11 @@ Project Folder Structure:
 
 IS-477-Course-Project/
 │
-├── data_raw/        # Original ISBE Report Card file 
-├── data_clean/      # Cleaned county-level merged dataset
-├── results/         # Visualizations, regression plots, summary tables
-├── notebooks/       # All Jupyter notebooks (cleaning + analysis)
-├── workflow/        # Scripts to re-run workflow non-interactively
+├── data_raw/    
+├── data_clean/    
+├── results/       
+├── notebooks/       
+├── workflow/      
 │
 ├── ProjectPlan.md
 ├── StatusReport.md
