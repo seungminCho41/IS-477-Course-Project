@@ -7,7 +7,16 @@ William Tang:
 Project plan: Finding the dataset, and writing the “Overview”, “Gaps”, ‘Dataset” sections
 Status Update: Writing “Updated Timeline”, “Task Updates”, “Updated Responsibilites”, Researching Dataset licensing
 Final Project Report: Creating the visualizations and regression model, writing the “Summary”, “Future Work”, and “Findings” sections 
-Min Cho - .
+Min Cho 
+Project Plan: 
+Finding the Dataset
+Cleaning and Merging Dataset
+Writing the Research Question, Timeline, and Constraints
+Status Update: 
+*Conducted Data preprocessing on both datasets(merging and cleaning)
+*Wrote the cleaning section in the status report
+Final Project Report: 
+Wrote the Data Profile, Data Quality, Reproducing 
 
 Summary: 
 	The purpose of our project is to determine the relationship between a variety of factors including: academic proficiency rates, graduation/dropout rates, expenditures on students; on median household  income. The reason why our project is particularly important is because, since we believe there is a strong correlation between the high school graduation, academic achievement, resources provided per student and wealth, we wanted to provide future researchers and policy makers with the information and the analysis to determine which factors had the greatest impact on income and encourage more resources to be allocated towards education and stronger factors. Another motivation of ours was, because we are exclusively using information pertinent to Illinois in our analysis, we wanted to highlight the relationship between those factors and income in Illinois so educators and policy makers in Illinois will have a better idea on how to support Illinoisans on a county-to-county basis.
@@ -83,11 +92,11 @@ Project Folder Structure:
 
 IS-477-Course-Project/
 │
-├── data_raw/    
-├── data_clean/    
-├── results/       
-├── notebooks/       
-├── workflow/      
+├── data_raw/        # Original ISBE Report Card file 
+├── data_clean/      # Cleaned county-level merged dataset
+├── results/         # Visualizations, regression plots, summary tables
+├── notebooks/       # All Jupyter notebooks (cleaning + analysis)
+├── workflow/        # Scripts to re-run workflow non-interactively
 │
 ├── ProjectPlan.md
 ├── StatusReport.md
